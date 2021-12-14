@@ -92,7 +92,7 @@ int main() {
 
 
 	/*Video 4: Reader-Writer Synchronization Using Critical Section*/
-	// "reserve" critical section from other threads (1 thread for 1 mode)
+	// "reserve" critical section from other threads (1 thread for 1 operation)
 	// Alternative for CREATE_SUSPENDED -> Add in CriticalSection
 	// CRITICAL_SECTION is a user-mode sync object and can only sync threads running under SAME process.
 
