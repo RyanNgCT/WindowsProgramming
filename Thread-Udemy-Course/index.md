@@ -1,4 +1,4 @@
-# Socket-Udemy-Course
+## Thread Udemy Course
 
 Code for the udemy course "Learn multithreading with modern C++".
 
